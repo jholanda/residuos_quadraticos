@@ -1,7 +1,5 @@
 # resíduos quadráticos
 
-## Resíduos quadráticos
-
 ```
 cd residuos_quadraticos
 make
