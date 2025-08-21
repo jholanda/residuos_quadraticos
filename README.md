@@ -22,6 +22,3 @@ rq_nao_linear input_nao_linear.txt
 *make* gera os arquivos para o diretório build
 
 *make clean* apaga os arquivos no diretório build
-# residuos_quadraticos
-# residuos_quadraticos
-# residuos_quadraticos
