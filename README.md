@@ -1,4 +1,4 @@
-# projeto2025
+# resíduos quadráticos
 
 ## Resíduos quadráticos
 
